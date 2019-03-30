@@ -1,0 +1,500 @@
+Product_Id;Product_Name;Product_Price;Subcategory_Name
+10112345;The Witcher 3: Wild Hunt;109;PC
+10212345;Fifa 18;159;PC
+10312345;NBA 2K18;159;PC
+10412345;BioShock;39;PC
+10512345;Half-Life 2;19;PC
+10612345;Grand Theft Auto V;99;PC
+10712345;God Of War;189;PC
+10812345;Red Dead Redemption;49;PC
+10912345;DOOM;99;PC
+11012345;Mass Effect 3;99;PC
+11112345;Resident Evil 6;39;PC
+11212345;Call of Duty 4: Modern Warfare;29;PC
+11312345;Battlefield 1;99;PC
+11412345;Fallout 4;79;PC
+11512345;Dark Souls 3;49;PC
+11612345;Batman: Arkham Asylum;29;PC
+11712345;Diablo;69;PC
+11812345;Portal 2;19;PC
+11912345;Company of Heroes;29;PC
+12012345;Civizilation II;9;PC
+12112345;Dishonored;49;PC
+12212345;Dishonored II;109;PC
+12312345;Overwatch;99;PC
+12412345;Undertale;19;PC
+12512345;Rome: Total War;29;PC
+12612345;Tomb Raider;99;PC
+12712345;Prey;99;PC
+12812345;For Honor;99;PC
+12912345;XCOM 2;89;PC
+13012345;Mass Effect: Andromeda;119;PC
+13112345;The Evil Within 2;99;PC
+13212345;Project CARS 2;109;PC
+13312345;Football Manager 2018;129;PC
+13412345;Injustice 2;109;PC
+13512345;Sniper Elite 4;99;PC
+13612345;Pro Evolution Soccer 2018;39;PC
+13712345;Rain World;59;PC
+13812345;Outlast;49;PC
+13912345;Outlast 2;99;PC
+14012345;Divinity: Original Sin II;159;PC
+14112345;Resident Evil 7: Biohazard;99;PC
+14212345;Destiny 2;109;PC
+14312345;Middle-earth: Shadow of Mordor;119;PC
+14412345;Star Wars Battlefront II;229;PC
+14512345;ARK: Survival Evolved;69;PC
+14612345;Rainbow Six Siege;59;PC
+14712345;Warhammer: Vermintide 2;119;PC
+14812345;Hitman;109;PC
+20112345;The Witcher 3: Wild Hunt;209;PS
+20212345;Fifa 18;229;PS
+20312345;NBA 2K18;229;PS
+20412345;BioShock;159;PS
+20512345;Half-Life 2;59;PS
+20612345;Grand Theft Auto V;119;PS
+20712345;God Of War;299;PS
+20812345;Red Dead Redemption;79;PS
+20912345;DOOM;189;PS
+21012345;Mass Effect 3;159;PS
+21112345;Resident Evil 6;119;PS
+21212345;Call of Duty 4: Modern Warfare;109;PS
+21312345;Battlefield 1;259;PS
+21412345;Fallout 4;199;PS
+21512345;Dark Souls 3;189;PS
+21612345;Batman: Arkham Asylum;139;PS
+21712345;Diablo;99;PS
+21812345;Portal 2;59;PS
+21912345;Company of Heroes;99;PS
+22012345;Civizilation V;109;PS
+22112345;Dishonored;119;PS
+22212345;Dishonored II;229;PS
+22312345;Overwatch;159;PS
+22412345;Undertale;59;PS
+22512345;Rome: Total War;89;PS
+22612345;Tomb Raider;239;PS
+22712345;Prey;229;PS
+22812345;For Honor;219;PS
+22912345;XCOM 2;199;PS
+23012345;Mass Effect: Andromeda;259;PS
+23112345;The Evil Within 2;249;PS
+23212345;Project CARS 2;159;PS
+23312345;Football Manager 2018;199;PS
+23412345;Injustice 2;229;PS
+23512345;Sniper Elite 4;219;PS
+23612345;Pro Evolution Soccer 2018;219;PS
+23712345;Rain World;149;PS
+23812345;Outlast;199;PS
+23912345;Outlast 2;249;PS
+24012345;Divinity: Original Sin II;279;PS
+24112345;Resident Evil 7: Biohazard;199;PS
+24212345;Destiny 2;249;PS
+24312345;Middle-earth: Shadow of Mordor;249;PS
+24412345;Star Wars Battlefront II;349;PS
+24512345;ARK: Survival Evolved;129;PS
+24612345;Rainbow Six Siege;209;PS
+24712345;Warhammer: Vermintide 2;209;PS
+24812345;Hitman;249;PS
+24912345;Horizon Zero Dawn;259;PS
+25012345;Uncharted: The Lost Legacy;259;PS
+30112345;The Witcher 3: Wild Hunt;209;XBOX
+30212345;Fifa 18;229;XBOX
+30312345;NBA 2K18;229;XBOX
+30412345;BioShock;159;XBOX
+30512345;Half-Life 2;59;XBOX
+30612345;Grand Theft Auto V;119;XBOX
+30712345;God Of War;299;XBOX
+30812345;Red Dead Redemption;79;XBOX
+30912345;DOOM;189;XBOX
+31012345;Mass Effect 3;159;XBOX
+31112345;Resident Evil 6;119;XBOX
+31212345;Call of Duty 4: Modern Warfare;109;XBOX
+31312345;Battlefield 1;259;XBOX
+31412345;Fallout 4;199;XBOX
+31512345;Dark Souls 3;189;XBOX
+31612345;Batman: Arkham Asylum;139;XBOX
+31712345;Diablo;99;XBOX
+31812345;Portal 2;59;XBOX
+31912345;Company of Heroes;99;XBOX
+32012345;Civizilation V;109;XBOX
+32112345;Dishonored;119;XBOX
+32212345;Dishonored II;229;XBOX
+32312345;Overwatch;159;XBOX
+32412345;Undertale;59;XBOX
+32512345;Rome: Total War;89;XBOX
+32612345;Tomb Raider;239;XBOX
+32712345;Prey;229;XBOX
+32812345;For Honor;219;XBOX
+32912345;XCOM 2;199;XBOX
+33012345;Mass Effect: Andromeda;259;XBOX
+33112345;The Evil Within 2;249;XBOX
+33212345;Project CARS 2;159;XBOX
+33312345;Football Manager 2018;199;XBOX
+33412345;Injustice 2;229;XBOX
+33512345;Sniper Elite 4;219;XBOX
+33612345;Pro Evolution Soccer 2018;219;XBOX
+33712345;Rain World;149;XBOX
+33812345;Outlast;199;XBOX
+33912345;Outlast 2;249;XBOX
+34012345;Divinity: Original Sin II;279;XBOX
+34112345;Resident Evil 7: Biohazard;199;XBOX
+34212345;Destiny 2;249;XBOX
+34312345;Middle-earth: Shadow of Mordor;249;XBOX
+34412345;Star Wars Battlefront II;349;XBOX
+34512345;ARK: Survival Evolved;129;XBOX
+34612345;Rainbow Six Siege;209;XBOX
+34712345;Warhammer: Vermintide 2;209;XBOX
+34812345;Hitman;249;XBOX
+34912345;Forza Motorsport 7;299;XBOX
+35012345;Madden NFL 18;249;XBOX
+35112345;Dirt 4;219;XBOX
+40154321;Parmak İzi;16;CD
+40254321;Eskimeyen Dost;76;CD
+40354321;Mançoloji 1;70;CD
+40454321;Git;80;CD
+40554321;Senin İçin Değer;16;CD
+40654321;Meleğim;8;CD
+40754321;Dünden Yarına;60;CD
+40854321;Hepsi Benim Yüzümden;16;CD
+40954321;Mükemmel Boşluk;64;CD
+41054321;Neden Böyleyiz;16;CD
+41154321;Hit 2018;16;CD
+41254321;Justin Timberlake;42;CD
+41354321;Merhaba Gençler;16;CD
+41454321;Özlem;16;CD
+41554321;The Life Of Pablo;16;CD
+41654321;Fresh Hits In Da Club;16;CD
+41754321;İlk Şarkılar;16;CD
+41854321;The Wall;120;CD
+41954321;Garage Days;93;CD
+42054321;Harry Styles;29;CD
+42154321;Evgeny Ginko;20;CD
+42254321;Fazıl Say Güz Şarkıları;16;CD
+42354321;Kitap Okurken Müzik;12;CD
+42454321;Seventh Son Of A Seventh Son;16;CD
+42554321;Çocuklar İçin;16;CD
+42654321;Cowboys From Hell;16;CD
+42754321;Iron Maiden;25;CD
+42854321;Ride The Lightning;30;CD
+42954321;One More Light;30;CD
+43054321;Latin Sunset;16;CD
+43154321;Killers;25;CD
+43254321;Nazım Oratoryosu;16;CD
+43354321;Led Zeppelin I;25;CD
+43454321;Lost On You;16;CD
+43554321;Are You Dead Yet?;24;CD
+43654321;Skeletons in The Closet;24;CD
+43754321;Lemonade;28;CD
+43854321;Man Of The Woods;32;CD
+43954321;Vulgar Display Of Power;16;CD
+44054321;Concert in Athens;59;CD
+50154321;Parmak İzi;25;DVD
+50254321;Eskimeyen Dost;100;DVD
+50354321;Mançoloji 1;89;DVD
+50454321;Git;95;DVD
+50554321;Senin İçin Değer;25;DVD
+50654321;Meleğim;16;DVD
+50754321;Dünden Yarına;85;DVD
+50854321;Hepsi Benim Yüzümden;25;DVD
+50954321;Mükemmel Boşluk;89;DVD
+51054321;Neden Böyleyiz;25;DVD
+51154321;Hit 2018;25;DVD
+51254321;Justin Timberlake;74;DVD
+51354321;Merhaba Gençler;25;DVD
+51454321;Özlem;25;DVD
+51554321;The Life Of Pablo;25;DVD
+51654321;Fresh Hits In Da Club;25;DVD
+51754321;İlk Şarkılar;25;DVD
+51854321;The Wall;189;DVD
+51954321;Garage Days;129;DVD
+52054321;Harry Styles;45;DVD
+52154321;Evgeny Ginko;40;DVD
+52254321;Fazıl Say Güz Şarkıları;25;DVD
+52354321;Kitap Okurken Müzik;20;DVD
+52454321;Seventh Son Of A Seventh Son;25;DVD
+52554321;Çocuklar İçin;25;DVD
+52654321;Cowboys From Hell;25;DVD
+52754321;Iron Maiden;50;DVD
+52854321;Ride The Lightning;64;DVD
+52954321;One More Light;64;DVD
+53054321;Latin Sunset;25;DVD
+53154321;Killers;50;DVD
+53254321;Nazım Oratoryosu;25;DVD
+53354321;Led Zeppelin I;50;DVD
+53454321;Lost On You;25;DVD
+53554321;Are You Dead Yet?;62;DVD
+53654321;Skeletons in The Closet;62;DVD
+53754321;Lemonade;74;DVD
+53854321;Man Of The Woods;68;DVD
+53954321;Vulgar Display Of Power;25;DVD
+54054321;Concert in Athens;79;DVD
+60154321;The Wall;120;PLAK
+60254321;Garage Days;95;PLAK
+60354321;La La Land;95;PLAK
+60454321;Wish You Were Here;75;PLAK
+60554321;The Very Best Of Ray Charles;63;PLAK
+60654321;X Multiply;95;PLAK
+60754321;Dancing On The Ceiling;95;PLAK
+60854321;Plays Sezen Aksu;120;PLAK
+60954321;Elvis Golden Classics;90;PLAK
+61054321;Dua Lipa;77;PLAK
+61154321;Curtis;77;PLAK
+61254321;Random Access Memories;105;PLAK
+61354321;Judgement;65;PLAK
+61454321;Exciter;100;PLAK
+61554321;Black Widow;77;PLAK
+61654321;Unforgettable Collection;63;PLAK
+61754321;Falco 3;70;PLAK
+61854321;Transformer;70;PLAK
+61954321;Faith Divides Us;85;PLAK
+62054321;Reverence;105;PLAK
+62154321;Monk;70;PLAK
+62254321;Destroyed;95;PLAK
+62354321;Close To The Edge;77;PLAK
+62454321;Adrenaline;62;PLAK
+62554321;Roger Waters;105;PLAK
+62654321;Hopeless Fountain Kingdom;95;PLAK
+62754321;En Vivo;120;PLAK
+62854321;The Great Reunion;60;PLAK
+62954321;Dizzy Up The Girl;62;PLAK
+63054321;Divide;95;PLAK
+63154321;The Battle Rages On;57;PLAK
+63254321;Flight 666;120;PLAK
+63354321;Otis Blue;62;PLAK
+63454321;The Book Of Taliesyn;77;PLAK
+63554321;Name Of This Band is;77;PLAK
+63654321;Over The Hills And Far Away;69;PLAK
+63754321;Rock in Rio;155;PLAK
+63854321;Rum Sodomy And The Lash;77;PLAK
+63954321;Chansons Preferees;72;PLAK
+64054321;The Book Of Souls;120;PLAK
+70198765;Aşk Başka Bir Şey;22;Ciltli
+70298765;Lacivert-Safir;24;Ciltli
+70398765;Ateşle Oynama;22;Ciltli
+70498765;Saray;12;Ciltli
+70598765;3391 Kilometre;22;Ciltli
+70698765;Ucubeler;22;Ciltli
+70798765;Piyon;12;Ciltli
+70898765;Mucize;27;Ciltli
+70998765;Bal;22;Ciltli
+71098765;Sonsuza Dek Sen;30;Ciltli
+71198765;Yüzüklerin Efendisi;88;Ciltli
+71298765;Karantina;22;Ciltli
+71398765;Büyük Wootton Demircisi;16;Ciltli
+71498765;Son Nefes;16;Ciltli
+71598765;Nejat;14;Ciltli
+71698765;Düşman Okullar;21;Ciltli
+71798765;Şeytanın Eli;13;Ciltli
+71898765;Mirasçılar 2;22;Ciltli
+71998765;Güzel Bir Hayat;18;Ciltli
+72098765;Hayatın Kıyısında;30;Ciltli
+72198765;Sözleşme 2;36;Ciltli
+72298765;Kötü Çocuk;23;Ciltli
+72398765;Izabel;20;Ciltli
+72498765;Leyla Fırtınası;23;Ciltli
+72598765;Sözleşme 2;24;Ciltli
+72698765;Ada Yanıyor;25;Ciltli
+72798765;Kuğu ve Çakal;21;Ciltli
+72898765;Solucan;21;Ciltli
+72998765;Victor;23;Ciltli
+73098765;Kardeşimin Hikayesi;27;Ciltli
+73198765;Huzursuzluk;17;Ciltli
+73298765;Budha;44;Ciltli
+73398765;Safiye Erol;17;Ciltli
+73498765;Korkunç Ivan;34;Ciltli
+73598765;Nietzsche;57;Ciltli
+73698765;Mithradates;36;Ciltli
+73798765;Minyeli Abdullah;21;Ciltli
+73898765;Simon Bolivar;23;Ciltli
+73998765;Brooklyn Maceralarİ;11;Ciltli
+74098765;Devrimin Fedaileri;14;Ciltli
+74198765;Mozart;50;Ciltli
+74298765;Jane Austen;38;Ciltli
+74398765;Tom Cruise;6;Ciltli
+74498765;Alex De Souza;45;Ciltli
+74598765;Sarah Bernhardt;34;Ciltli
+74698765;Yunus Emre;23;Ciltli
+74798765;Olof Palme;34;Ciltli
+74898765;Jules Verne;32;Ciltli
+74998765;Fatih Sultan Mehmet;19;Ciltli
+75098765;Bir İnsan-ı Selim;35;Ciltli
+75198765;Vivienne Westwood;35;Ciltli
+75298765;İsa Kimdi?;24;Ciltli
+75398765;Thomas Hobbes;35;Ciltli
+75498765;Kierkegaard;39;Ciltli
+75598765;Gabriel Garcia Marquez;42;Ciltli
+75698765;Leibniz;42;Ciltli
+75798765;Yavuz Sultan Selim;19;Ciltli
+75898765;Safiye Erol;38;Ciltli
+75998765;İsmet İnönü;36;Ciltli
+76098765;Descartes;45;Ciltli
+76198765;Yolcu;22;Ciltli
+76298765;Robespierre;38;Ciltli
+76398765;Koku;26;Ciltli
+76498765;Dönüşüm;13;Ciltli
+76598765;Olasılıksız;25;Ciltli
+76698765;Tarih Kitabı;53;Ciltli
+76798765;Astronomi Kitabı;55;Ciltli
+76898765;Beyin;55;Ciltli
+76998765;Botanicum;42;Ciltli
+77098765;Stephen Hawking Evreni;46;Ciltli
+77198765;Deniz Ne Kadar Derin?;14;Ciltli
+77298765;Bitki Avcİlarİ;57;Ciltli
+77398765;Shakespeare Kitabİ;53;Ciltli
+77498765;Gerçeğin Büyüsü;30;Ciltli
+77598765;Charles Darwin;57;Ciltli
+77698765;Moleküler Biyoloji;49;Ciltli
+77798765;Güzel Bir Soru;29;Ciltli
+77898765;Dünyanın Yeşil Tarihi;35;Ciltli
+77998765;Açık Mutfak;98;Ciltli
+78098765;Net 425 g;55;Ciltli
+78198765;Üstadı Tanımlamak;19;Ciltli
+78298765;Un;55;Ciltli
+78398765;Tarif Defteri;34;Ciltli
+78498765;Rakı Balık Ayvalık;21;Ciltli
+78598765;Playboy Barmenin Rehberi;39;Ciltli
+78698765;Biraz Maya Biraz Gram;72;Ciltli
+78798765;Kedi Sahibinin El Kitabı;35;Ciltli
+78898765;İstanbul Sofraları;42;Ciltli
+78998765;Balık Sofraları;23;Ciltli
+79098765;Butik Pastacılık;49;Ciltli
+79198765;Büyükada Yemekleri;42;Ciltli
+79298765;Kılçıksız Balık;32;Ciltli
+79398765;Budo;19;Ciltli
+79498765;Eyvallah;12;Ciltli
+79598765;Dirilt Kalbini;13;Ciltli
+79698765;Odysseia;15;Ciltli
+79798765;Fesleğen;12;Ciltli
+79898765;Mevlana;10;Ciltli
+79998765;Mesnevi;60;Ciltli
+71009876;Mitoloji 101;16;Ciltli
+80198765;Aşk Başka Bir Şey;9;Cep Boy
+80298765;Lacivert-Safir;9;Cep Boy
+80398765;Ateşle Oynama;8;Cep Boy
+80498765;Saray;6;Cep Boy
+80598765;3391 Kilometre;11;Cep Boy
+80698765;Ucubeler;13;Cep Boy
+80798765;Piyon;9;Cep Boy
+80898765;Mucize;9;Cep Boy
+80998765;Bal;6;Cep Boy
+81098765;Sonsuza Dek Sen;8;Cep Boy
+81198765;Yüzüklerin Efendisi;9;Cep Boy
+81298765;Karantina;9;Cep Boy
+81398765;Büyük Wootton Demircisi;10;Cep Boy
+81498765;Son Nefes;13;Cep Boy
+81598765;Nejat;15;Cep Boy
+81698765;Düşman Okullar;9;Cep Boy
+81798765;Şeytanın Eli;9;Cep Boy
+81898765;Mirasçılar 2;6;Cep Boy
+81998765;Güzel Bir Hayat;5;Cep Boy
+82098765;Hayatın Kıyısında;9;Cep Boy
+82198765;Sözleşme 2;9;Cep Boy
+82298765;Kötü Çocuk;14;Cep Boy
+82398765;Izabel;13;Cep Boy
+82498765;Leyla Fırtınası;11;Cep Boy
+82598765;Sözleşme 2;9;Cep Boy
+82698765;Ada Yanıyor;6;Cep Boy
+82798765;Net 425 g;12;Cep Boy
+82898765;Üstadı Tanımlamak;8;Cep Boy
+82998765;Un;7;Cep Boy
+83098765;Tarif Defteri;19;Cep Boy
+83198765;Rakı Balık Ayvalık;9;Cep Boy
+83298765;Playboy Barmenin Rehberi;10;Cep Boy
+83398765;Biraz Maya Biraz Gram;15;Cep Boy
+83498765;Kedi Sahibinin El Kitabı;9;Cep Boy
+83598765;İstanbul Sofraları;6;Cep Boy
+83698765;Balık Sofraları;8;Cep Boy
+83798765;Butik Pastacılık;11;Cep Boy
+83898765;Büyükada Yemekleri;13;Cep Boy
+83998765;Kılçıksız Balık;16;Cep Boy
+84098765;Budo;9;Cep Boy
+84198765;Eyvallah;8;Cep Boy
+84298765;Dirilt Kalbini;6;Cep Boy
+84398765;Odysseia;9;Cep Boy
+84498765;Fesleğen;9;Cep Boy
+84598765;Mevlana;10;Cep Boy
+84698765;Mesnevi;11;Cep Boy
+84798765;Mitoloji 101;9;Cep Boy
+84898765;Stephen Hawking Evreni;13;Cep Boy
+84998765;Deniz Ne Kadar Derin?;15;Cep Boy
+85098765;Bitki Avcılarİ;9;Cep Boy
+90198765;Lies That Bind Us;20;E-Book
+90298765;Matchmaking For Beginners;20;E-Book
+90398765;The Speed Of Sound;20;E-Book
+90498765;Never Stop Walking;20;E-Book
+90598765;A Marriage in Dog Years;20;E-Book
+90698765;50 Shades Of Gray;40;E-Book
+90798765;I Dare You;16;E-Book
+90898765;The Lord Of The Rings;20;E-Book
+90998765;The Selection;36;E-Book
+91098765;When Never Comes;24;E-Book
+91198765;True: A Novel;20;E-Book
+91298765;Between Sisters;12;E-Book
+91398765;The Hardest Fall;16;E-Book
+91498765;The Fallen;60;E-Book
+91598765;The 17th Suspect;60;E-Book
+91698765;Undead Star;12;E-Book
+91798765;Stone Rules;16;E-Book
+91898765;Twisted Prey;60;E-Book
+91998765;Beneath A Scarlet Sky;36;E-Book
+92098765;Accidentaly Married;4;E-Book
+92198765;King Sized;4;E-Book
+92298765;Born Survivors;44;E-Book
+92398765;It Ends With Her;24;E-Book
+92498765;The Tuscan Child;24;E-Book
+92598765;Back River Quiver;4;E-Book
+92698765;Jock Row;16;E-Book
+92798765;Chain of Apprentice;24;E-Book
+92898765;Birthday Girl;12;E-Book
+92998765;The Return of George Washington;44;E-Book
+93098765;Beach Rental;16;E-Book
+93198765;Her Last Goodbye;20;E-Book
+93298765;Due Process;20;E-Book
+93398765;Giving Her My Baby;4;E-Book
+93498765;Worth Dying For;12;E-Book
+93598765;Burn For You;8;E-Book
+93698765;Mine After Dark;24;E-Book
+93798765;Avenger vs. Thanos;40;E-Book
+93898765;Plus One;4;E-Book
+93998765;The Ranger;8;E-Book
+94098765;Back In The Game;4;E-Book
+94198765;Sheriff Joe;4;E-Book
+94298765;Vegas Rules;16;E-Book
+94398765;The Lawson Brothers;16;E-Book
+94498765;The Sometimes Sisters;20;E-Book
+94598765;Unbroken;16;E-Book
+94698765;Before We Were Yours;52;E-Book
+94798765;Superhuman;12;E-Book
+94898765;The Wedding Proposal;4;E-Book
+94998765;Unbound;4;E-Book
+95098765;Breakthrough;16;E-Book
+95198765;Eagles At War;4;E-Book
+95298765;The Silmarillion;40;E-Book
+95398765;I Am Watching You;20;E-Book
+95498765;The Hideaway;8;E-Book
+95598765;True Fiction;24;E-Book
+95698765;Tips For Living;8;E-Book
+95798765;Silent Victim;24;E-Book
+95898765;Twist Of Faith;8;E-Book
+95998765;Bone Music;24;E-Book
+96098765;Milk And Honey;32;E-Book
+96198765;Bandwidth;20;E-Book
+96298765;The Whiskey Sea;16;E-Book
+96398765;Stillhouse Lake;20;E-Book
+96498765;Midnight Blue;16;E-Book
+96598765;The Hiding Place;28;E-Book
+96698765;Killman Creek;20;E-Book
+96798765;The Dead Key;24;E-Book
+96898765;Ready Player One;40;E-Book
+96998765;As Good As True;8;E-Book
+97098765;Las Vegas Girl;4;E-Book
+97198765;The Gender Game;4;E-Book
+97298765;A Wrinkle In Time;28;E-Book
+97398765;The Naturalist;20;E-Book
+97498765;Black Panther;60;E-Book
+97598765;The Worst Best Man;16;E-Book
+97698765;Origin;60;E-Book
+97798765;Pushing Brilliance;16;E-Book
+97898765;Red Sparrow;54;E-Book
+97998765;The Buried Book;20;E-Book
+98098765;Hotbloods;4;E-Book
